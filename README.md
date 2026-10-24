@@ -20,7 +20,7 @@
 **Languages**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,py,php,dart,html,css" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=ts,js,py,go,rust,php,dart,html,css" alt="Languages" />
 </p>
 
 **Front end & mobile**
@@ -44,7 +44,7 @@
 **DevOps, cloud & design**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,ai" alt="DevOps, cloud and design" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,ai" alt="DevOps, cloud and design" /><img src="assets/coolify.svg" alt="Coolify" />
 </p>
 
 ### 📊 GitHub stats
